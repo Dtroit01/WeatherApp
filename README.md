@@ -14,3 +14,6 @@ Open `index.html` and enter a city name.
 - HTML
 - CSS
 - JavaScript (Fetch API, async/await)
+
+## Live demo link
+- https://dt01weatherapp.netlify.app/
